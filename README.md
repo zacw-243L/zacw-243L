@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Zachary, a 22-year-old Computer Engineering graduate (Class of 2025) from Nanyang Polytechnic. <br>I am passionate about coding, sci-fi gaming, and artificial intelligence, with a particular interest in how these technologies intersect and shape our future.<br><br>🔭 I'm currently exploring various personal projects to expand my portfolio<br>👯 I'm eager to collaborate on innovative tech projects, especially in AI and game development<br>🤝 Open to mentorship and networking opportunities in the tech industry<br>🌱 I'm continuously learning new technologies and frameworks<br>💬 Feel free to reach out about job opportunities or potential collaborations<br>⚡ Fun fact: I have a unique way of problem-solving that gives me a different perspective on coding challenges
 
 ## 🌐 Socials:
@@ -39,9 +39,9 @@ Hi, I'm Zachary, a 22-year-old Computer Engineering graduate (Class of 2025) fro
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)<br> 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black)<br> 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zacw-243L&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=zacw-243L&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zacw-243L&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zacw-243L&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zacw-243L&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zacw-243L&theme=radical&no-frame=false&no-bg=true&margin-w=4)
