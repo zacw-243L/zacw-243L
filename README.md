@@ -3,9 +3,9 @@ Hi, I'm Zachary, a 22-year-old Computer Engineering graduate (Class of 2025) fro
 I am passionate about coding, sci-fi gaming, and artificial intelligence, with a particular interest in how these technologies intersect and shape our future.<br>
 <br>
 🔭 I'm currently exploring various personal projects to expand my portfolio<br>
-👷 I’m focused on completing my internship at Jurong Port Tank Terminal (JPTT)<br>  
-🌱 I’m currently learning about IoT, LoRaWAN, and smart metering technologies<br> 
-💬 Feel free to reach out about job opportunities or mentorship in the tech industry<br>  
+👷 I’m focused on completing my internship at Jurong Port Tank Terminal (JPTT)<br>
+🌱 I’m currently learning about IoT, LoRaWAN, and smart metering technologies<br>
+💬 Feel free to reach out about job opportunities or mentorship in the tech industry<br>
 ⚡ Fun fact: I have a unique way of problem-solving that gives me a different perspective on coding challenges
 
 ## 🌐 Socials:
