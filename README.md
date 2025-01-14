@@ -1,5 +1,12 @@
 # About Me:
-Hi, I'm Zachary, a 22-year-old Computer Engineering graduate (Class of 2025) from Nanyang Polytechnic. <br>I am passionate about coding, sci-fi gaming, and artificial intelligence, with a particular interest in how these technologies intersect and shape our future.<br><br>🔭 I'm currently exploring various personal projects to expand my portfolio<br>👯 I'm eager to collaborate on innovative tech projects, especially in AI and game development<br>🤝 Open to mentorship and networking opportunities in the tech industry<br>🌱 I'm continuously learning new technologies and frameworks<br>💬 Feel free to reach out about job opportunities or potential collaborations<br>⚡ Fun fact: I have a unique way of problem-solving that gives me a different perspective on coding challenges
+Hi, I'm Zachary, a 22-year-old Computer Engineering graduate (Class of 2025) from Nanyang Polytechnic. <br>
+I am passionate about coding, sci-fi gaming, and artificial intelligence, with a particular interest in how these technologies intersect and shape our future.<br>
+<br>
+🔭 I'm currently exploring various personal projects to expand my portfolio<br>
+👷 I’m focused on completing my internship at Jurong Port Tank Terminal (JPTT)<br>  
+🌱 I’m currently learning about IoT, LoRaWAN, and smart metering technologies<br> 
+💬 Feel free to reach out about job opportunities or mentorship in the tech industry<br>  
+⚡ Fun fact: I have a unique way of problem-solving that gives me a different perspective on coding challenges
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100014697270755) 
