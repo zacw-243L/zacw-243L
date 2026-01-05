@@ -9,8 +9,11 @@ I am passionate about coding, sci-fi gaming, and artificial intelligence, with a
 ⚡ Fun fact: I have a unique way of problem-solving that gives me a different perspective on coding challenges
 
 # 💻 Main Tech Stack:
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=5" alt="Tech Stack" /> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=5" alt="Tech Stack" />
+  </a>
+</p> 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)<br> 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)<br> 
