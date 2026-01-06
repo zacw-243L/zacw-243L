@@ -11,7 +11,7 @@ I am passionate about coding, sci-fi gaming, and artificial intelligence, with a
 # 💻 Main Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,c,html,css alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,cs,c,html,css" alt="Tech Stack"/>
   </a>
 </p> 
 
