@@ -30,15 +30,19 @@ I enjoy building tangible, impactful solutions at the intersection of hardware, 
 
 ## Skills Snapshot (Ranked by Usage)
 - ### **Core Languages**: Python (heavy use), C#, C, Dart, JavaScript (basic)  
-- ### **Mobile**: Flutter + Firebase  
+- ### **Mobile**:
+        Flutter SDK
+        Firebase  
+        
 - ### **Web**: 
         HTML 
         CSS  
+        
 - ### **Data/ML**: NumPy, Pandas, scikit-learn  
-- **Databases**: MySQL, SQLite  
-- **Hardware/IoT**: Arduino, Raspberry Pi, LoRaWAN, Mosquitto  
-- **Others**: .NET (WinForms/UWP), Git, Power BI  
-- **Creative Tools** (Self-taught): Adobe Photoshop, Premiere Pro, Creative Cloud <useful for prototyping visuals, documentation, and leveraging generative AI for enhanced workflows>.
+- ### **Databases**: MySQL, SQLite  
+- ### **Hardware/IoT**: Arduino, Raspberry Pi, LoRaWAN
+- ### **Others**: .NET (WinForms/UWP), Git, Power BI  
+- ### **Creative Tools** (Self-taught): Adobe Photoshop, Premiere Pro, Creative Cloud <useful for prototyping visuals, documentation, and leveraging generative AI for enhanced workflows>.
 
 ### Let's Connect
 Currently serving full-time National Service (until ~2027), so my availability is limited for now.  
