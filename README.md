@@ -9,19 +9,19 @@ I enjoy building tangible, impactful solutions at the intersection of hardware, 
 ### Key Projects & Leadership Highlights
 
 - **Smart Water Meter Proof-of-Concept (Internship @ Jurong Port Tank Terminal)**  
-  [GitHub Repo](https://github.com/zacw-243L/JPTT-NYP-SMART-Water-meter-POC)  
+  [IoT](https://github.com/zacw-243L/JPTT-NYP-SMART-Water-meter-POC)  
   Led development of an IoT prototype using LoRaWAN for industrial remote monitoring. Integrated sensors/hardware for a POC and created detailed documentation for handover. Demonstrated quick mastery of new tech (LoRaWAN/smart metering) and independent execution in a professional setting.
 
 - **EcoSphere – Smart Home (Year 2 Module Project)**  
-  [GitHub Repo](https://github.com/zacw-243L/Project-EcoSphere-/tree/main) | [Project Page](https://ongzacoz0.wixsite.com/site/copy-of-p2-1)  
-  Chosen as **team lead** for a group of 5 in a 16-week connected systems module. Designed and implemented a subsystem for energy-efficient temperature control using BeagleBone Black Wireless, sensors (IR, environmental), and a Python-based web client-server architecture. Motivated the team, delegated tasks, fostered collaboration, and ensured delivery of a working prototype + report/presentation. Earned an A for my subsystem; the team achieved strong overall scores. Focused on sustainability (presence detection, timers), hands-on embedded IoT with real environmental impact.
+  [Embeded Systems](https://github.com/zacw-243L/Project-EcoSphere-/tree/main) | [Project Page](https://ongzacoz0.wixsite.com/site/copy-of-p2-1)  
+  Chosen as **team lead** for a group of 5 in a 16-week connected systems module. Designed and implemented a subsystem for energy-efficient temperature control using BeagleBone Black Wireless, sensors, and a Python-based web client-server architecture. Motivated the team, delegated tasks, fostered collaboration, and ensured delivery of a working prototype + report/presentation. Earned an A for my subsystem; the team achieved strong overall scores. Focused on sustainability (presence detection, timers), hands-on embedded IoT with real environmental impact.
 
 - **Flutter Transport App (Final Semester Project)**  
-  [GitHub Repo](https://github.com/zacw-243L/flutter-transport-app)  
+  [Mobile App Development](https://github.com/zacw-243L/flutter-transport-app)  
   Built a full cross-platform mobile app for real-time transport tracking using Flutter & Dart, Firebase backend, and intuitive UI. Learned mobile development from scratch while delivering a user-focused, functional product.
 
 - **Robotics CCA Project Lead – Pico W Robot**  
-  [GitHub Repo](https://github.com/zacw-243L/Project-Pico-W-for-NYP-robotics-CCA)  
+  [Microcontrollers](https://github.com/zacw-243L/Project-Pico-W-for-NYP-robotics-CCA)  
   Took full ownership of a stalled project; wrote core code, coordinated remaining team members (when others dropped out), and delivered a working prototype. Showcased persistence, leadership under pressure, and seamless hardware-software integration with Raspberry Pi Pico W.
 
 - **Image Classification & Database Projects**  
