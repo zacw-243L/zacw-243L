@@ -16,7 +16,6 @@ I am passionate about coding, sci-fi gaming, and artificial intelligence, with a
 </p> 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacw-243L&layout=compact&theme=tokyonight&langs_count=6" />
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)<br> 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)<br> 
