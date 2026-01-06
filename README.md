@@ -1,6 +1,6 @@
 # Zachary Ong – Hands-On Maker & IoT Innovator
 
-Hi, I'm Zachary, a 23-year-old fresh Computer Engineering graduate (Class of 2025) from Nanyang Polytechnic.  
+Hi, I am Zachary, a 23-year-old fresh Electronic & Computer Engineering graduate (Class of 2025) from Nanyang Polytechnic.  
 
 I'm passionate about turning real-world problems into practical solutions through **hands-on tinkering**, logical reasoning, and rapid prototyping. I thrive on independent problem-solving, stepping up to lead when needed, and learning new tech quickly to deliver working systems—whether it's IoT for sustainability, mobile apps for everyday use, or robotics prototypes.  
 
@@ -55,16 +55,12 @@ Fun fact: I approach coding challenges with a fresh, detail-oriented perspective
 
 ---
 # 📊 GitHub Stats:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zacw-243L&label=Profile views&color=0e75b6&style=flat" alt="zacw-243L" /> </p>
-<br>
-![](https://github-readme-stats.vercel.app/api?username=zacw-243L&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zacw-243L&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zacw-243L&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zacw-243L&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zacw-243L&icon=0&color=4)](https://visitcount.itsvg.in)
+
 
 
