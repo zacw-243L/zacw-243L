@@ -1,73 +1,59 @@
-# About Me:
-Hi, I'm Zachary, a 23-year-old Computer Engineering graduate (Class of 2025) from Nanyang Polytechnic. <br>
-I am passionate about coding, sci-fi gaming, and artificial intelligence, with a particular interest in how these technologies intersect and shape our future.<br>
-<br>
-🔭 I'm currently exploring various personal projects to expand my portfolio<br>
-👷 I have completed my 6-month internship at Jurong Port Tank Terminal (JPTT)<br>
-🌱 I have learned more about IoT, LoRaWAN, and smart metering technologies<br>
-💬 Feel free to reach out about job opportunities or mentorship in the tech industry, though this window is closing fast<br>
-⚡ Fun fact: I have a unique way of problem-solving that gives me a different perspective on coding challenges
+# Zachary Ong – Hands-On Maker & IoT Innovator
 
-# 💻 Main Tech Stack:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,c,html,css" alt="Tech Stack"/>
-  </a>
-</p> 
+Hi, I'm Zachary, a 23-year-old fresh Computer Engineering graduate (Class of 2025) from Nanyang Polytechnic.  
 
+I'm passionate about turning real-world problems into practical solutions through **hands-on tinkering**, logical reasoning, and rapid prototyping. I thrive on independent problem-solving, stepping up to lead when needed, and learning new tech quickly to deliver working systems—whether it's IoT for sustainability, mobile apps for everyday use, or robotics prototypes.  
 
+I enjoy building tangible, impactful solutions at the intersection of hardware, software, and data, with a focus on design-thinking, interdisciplinary collaboration, and sustainable tech.
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)<br> 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)<br> 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)<br> 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)<br> 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)<br> 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)<br> 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)<br> 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)<br> 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)<br> 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)<br> 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)<br> 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)<br> 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)<br> 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)<br> 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)<br> 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)<br> 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white)<br> 
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white)<br> 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)<br> 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)<br> 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)<br> 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)<br> 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)<br> 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)<br> 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)<br> 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)<br> 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)<br> 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)<br> 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black)<br> 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)<br> 
-![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat-square&logo=eclipsemosquitto&logoColor=white)<br> 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)<br> 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)<br> 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)<br> 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)<br> 
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white)<br> 
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white)<br> 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black)<br> 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)<br> 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)<br> 
+### Key Projects & Leadership Highlights
 
-## 🌐 Socials:
+- **Smart Water Meter Proof-of-Concept (Internship @ Jurong Port Tank Terminal)**  
+  [GitHub Repo](https://github.com/zacw-243L/JPTT-NYP-SMART-Water-meter-POC)  
+  Led development of an IoT prototype using LoRaWAN for industrial remote monitoring. Integrated sensors/hardware, built backend (Python/Flask), handled MySQL database, and created detailed documentation for handover. Demonstrated quick mastery of new tech (LoRaWAN/smart metering) and independent execution in a professional setting.
+
+- **EcoSphere – Smart Home (Year 2 Module Project)**  
+  [GitHub Repo](https://github.com/zacw-243L/Project-EcoSphere-/tree/main) | [Project Page](https://ongzacoz0.wixsite.com/site/copy-of-p2-1)  
+  Chosen as **team lead** for a group of 5 in a 16-week connected systems module. Designed and implemented a subsystem for energy-efficient temperature control using BeagleBone Black Wireless, sensors (IR, environmental), and a Python-based web client-server architecture. Motivated the team, delegated tasks, fostered collaboration, and ensured delivery of a working prototype + report/presentation. Earned an A for my subsystem; the team achieved strong overall scores. Focused on sustainability (presence detection, timers), hands-on embedded IoT with real environmental impact.
+
+- **Flutter Transport App (Final Semester Project)**  
+  [GitHub Repo](https://github.com/zacw-243L/flutter-transport-app)  
+  Built a full cross-platform mobile app for real-time transport tracking using Flutter & Dart, Firebase backend, and intuitive UI. Learned mobile development from scratch while delivering a user-focused, functional product.
+
+- **Robotics CCA Project Lead – Pico W Robot**  
+  [GitHub Repo](https://github.com/zacw-243L/Project-Pico-W-for-NYP-robotics-CCA)  
+  Took full ownership of a stalled project; wrote core code, coordinated remaining team members (when others dropped out), and delivered a working prototype. Showcased persistence, leadership under pressure, and seamless hardware-software integration with Raspberry Pi Pico W.
+
+- **Image Classification & Database Projects**  
+  [Image Classification](https://github.com/zacw-243L/EGE352_DATA_ANALYTIC_Mini_Project-Image_Classification) | [Database Interfacing](https://github.com/zacw-243L/interfacing-with-a-database-the-Pythonic-way)  
+  Applied ML (Python/scikit-learn, NumPy/Pandas) for practical image classification, and built robust database systems (MySQL) with clean Python interfaces.
+
+### Skills Snapshot (Ranked by Usage)
+- **Core Languages**: Python (heavy use), C#, C, Dart, JavaScript (basic)  
+- **Mobile**: Flutter + Firebase  
+- **Web**: HTML/CSS, basic JS, Flask  
+- **Data/ML**: NumPy, Pandas, scikit-learn  
+- **Databases**: MySQL, SQLite  
+- **Hardware/IoT**: Arduino, Raspberry Pi, LoRaWAN, Mosquitto  
+- **Others**: .NET (WinForms/UWP), Git, Power BI  
+- **Creative Tools** (Self-taught): Adobe Photoshop, Premiere Pro, Creative Cloud <useful for prototyping visuals, documentation, and leveraging generative AI for enhanced workflows>.
+
+### Let's Connect
+Currently serving full-time National Service (until ~2027), so my availability is limited for now.  
+
+I am always interested in connecting about tech, design, innovation and engineering, feel free to reach out for a chat, or stay in touch for future opportunities once things settle
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ongzacharywastaken/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100014697270755) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/5cf3cdf8aa9db2cb519eb28034d9e) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ongzacharywastaken/) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Zwasnotfround) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@zachary4208) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/77mzHmDb)  
+[![Website](https://img.shields.io/badge/Portfolio-Website-blue)](https://ongzacoz0.wixsite.com/site/p)
 
+Fun fact: I approach coding challenges with a fresh, detail-oriented perspective that uncovers unconventional solutions and turns obstacles into opportunities.
 
-
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zacw-243L&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zacw-243L&theme=dark&hide_border=false)<br/>
