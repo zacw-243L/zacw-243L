@@ -37,7 +37,7 @@ I enjoy building tangible, impactful solutions at the intersection of hardware, 
   - ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)  Dart
 
 - ### **Mobile Development**
-  - [Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) Flutter SDK
+  - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) Flutter SDK
   - ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) Firebase
 
 - ### **Web Development**
