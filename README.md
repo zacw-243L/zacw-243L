@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Zachary, a 22-year-old Computer Engineering graduate (Class of 2025) from Nanyang Polytechnic. <br>
+Hi, I'm Zachary, a 23-year-old Computer Engineering graduate (Class of 2025) from Nanyang Polytechnic. <br>
 I am passionate about coding, sci-fi gaming, and artificial intelligence, with a particular interest in how these technologies intersect and shape our future.<br>
 <br>
 🔭 I'm currently exploring various personal projects to expand my portfolio<br>
@@ -11,7 +11,7 @@ I am passionate about coding, sci-fi gaming, and artificial intelligence, with a
 # 💻 Main Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,c,html,css,nextjs,nodejs,gql,postgres,git&perline=4" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,cs,c,html,css,mysql &perline=4" alt="Tech Stack" />
   </a>
 </p> 
 
