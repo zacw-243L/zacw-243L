@@ -55,6 +55,7 @@ Fun fact: I approach coding challenges with a fresh, detail-oriented perspective
 
 ---
 # 📊 GitHub Stats:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zacw-243L&label=Profile views&color=0e75b6&style=flat" alt="zacw-243L" /> </p>
 ![](https://github-readme-stats.vercel.app/api?username=zacw-243L&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zacw-243L&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zacw-243L&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
