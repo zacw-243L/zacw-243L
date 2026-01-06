@@ -45,11 +45,16 @@ I am always interested in connecting about tech, design, innovation and engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ongzacharywastaken/)
 <br>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100014697270755)<br> 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/5cf3cdf8aa9db2cb519eb28034d9e) <br>
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Zwasnotfround) <br>
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@zachary4208) <br>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/77mzHmDb)  <br>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100014697270755)
+<br> 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/5cf3cdf8aa9db2cb519eb28034d9e) 
+<br>
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Zwasnotfround) 
+<br>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@zachary4208) 
+<br>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/77mzHmDb)  
+<br>
 [![Website](https://img.shields.io/badge/Portfolio-Website-blue)](https://ongzacoz0.wixsite.com/site/p)
 
 Fun fact: I approach coding challenges with a fresh, detail-oriented perspective that uncovers unconventional solutions and turns obstacles into opportunities.
