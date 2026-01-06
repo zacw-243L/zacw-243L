@@ -53,7 +53,7 @@ I am always interested in connecting about tech, design, innovation and engineer
 <br>
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@zachary4208) 
 <br>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/77mzHmDb)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/77mzHmDb)
 <br>
 [![Website](https://img.shields.io/badge/Portfolio-Website-blue)](https://ongzacoz0.wixsite.com/site/p)
 
