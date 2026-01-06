@@ -31,27 +31,28 @@ I enjoy building tangible, impactful solutions at the intersection of hardware, 
 ## Tech Stack (Ranked by Usage)
 
 - ### **Core Tech Stack**
-  - Python (heavy use)
-  - C#
-  - C
-  - Dart
-  - JavaScript (basic)
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) Python (heavy use)
+  - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)  C#
+  - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) C
+  - ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)  Dart
 
 - ### **Mobile Development**
-  - Flutter SDK
-  - Firebase
+  - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg? Flutter SDK
+  - ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) Firebase
 
 - ### **Web Development**
-  - HTML
-  - CSS
+  - [HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) HTML
+  - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) CSS
+  - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) JS
 
 - ### **Data & Machine Learning**
-  - NumPy
-  - Pandas
-  - scikit-learn
+  - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) NumPy
+  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) Pandas
+  - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) scikit-learn
+  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) Matplotlib
 
 - ### **Databases**
-  - MySQL
+  - ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) MySQL
 
 - ### **Hardware & IoT**
   - Arduino
@@ -59,9 +60,10 @@ I enjoy building tangible, impactful solutions at the intersection of hardware, 
   - LoRaWAN
 
 - ### **Other Tools & Frameworks**
-  - .NET (WinForms/UWP)
-  - Git
-  - Power BI
+  - ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) .NET (WinForms/UWP)
+  - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) Git
+  - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) Github 
+  - ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) Power BI
 
 - ### **Creative Tools** (Self-taught)
   - Adobe Photoshop
