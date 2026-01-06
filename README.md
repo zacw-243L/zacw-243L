@@ -28,11 +28,13 @@ I enjoy building tangible, impactful solutions at the intersection of hardware, 
   [Image Classification](https://github.com/zacw-243L/EGE352_DATA_ANALYTIC_Mini_Project-Image_Classification) | [Database Interfacing](https://github.com/zacw-243L/interfacing-with-a-database-the-Pythonic-way)  
   Applied ML (Python/scikit-learn, NumPy/Pandas) for practical image classification, and built robust database systems (MySQL) with clean Python interfaces.
 
-### Skills Snapshot (Ranked by Usage)
-- **Core Languages**: Python (heavy use), C#, C, Dart, JavaScript (basic)  
-- **Mobile**: Flutter + Firebase  
-- **Web**: HTML/CSS, basic JS, Flask  
-- **Data/ML**: NumPy, Pandas, scikit-learn  
+## Skills Snapshot (Ranked by Usage)
+- ### **Core Languages**: Python (heavy use), C#, C, Dart, JavaScript (basic)  
+- ### **Mobile**: Flutter + Firebase  
+- ### **Web**: 
+        HTML 
+        CSS  
+- ### **Data/ML**: NumPy, Pandas, scikit-learn  
 - **Databases**: MySQL, SQLite  
 - **Hardware/IoT**: Arduino, Raspberry Pi, LoRaWAN, Mosquitto  
 - **Others**: .NET (WinForms/UWP), Git, Power BI  
